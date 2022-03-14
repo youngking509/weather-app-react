@@ -2,7 +2,7 @@
 
 #### A web app designed to share show weather in every cities, states, countries.
 
-![Uploading Screen Shot 2022-03-14 at 12.46.24 PM.png…]()
+<img width="864" alt="Screen Shot 2022-03-14 at 12 46 24 PM" src="https://user-images.githubusercontent.com/94661081/158249588-019bde5d-4e1b-4483-a30b-cf4594b79737.png">
 
 
 ## Description
