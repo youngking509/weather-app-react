@@ -1,6 +1,8 @@
 # The Competition App
 
-#### A full crud web app designed to share sporting hot spots in new cities.
+#### A web app designed to share show weather in every cities, states, countries.
+
+![Uploading Screen Shot 2022-03-14 at 12.46.24 PM.png…]()
 
 
 ## Description
