@@ -26,15 +26,12 @@ This is a weather app for people who would like to check the weather for every c
 * Users can search my weather for each city/state/country
 
 
-
-
-
 ## <a name="design"></a>Design
 * Design elements implemented using React.js. 
 
 
 ## <a name="nextsteps"></a>Project Next Steps
-* Users can change the theme.
+* ....
 
 
 <!-- ## <a name="deployment"></a>Deployed Link
